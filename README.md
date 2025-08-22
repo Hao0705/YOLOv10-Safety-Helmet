@@ -38,15 +38,16 @@ Chạy ứng dụng:
         streamlit run object_detection_app.py
 ````` `````
 ### 4. Cấu trúc thư mục 
-project/
-├── object_detection_app.py # Streamlit web app
-├── find_bouding_box.py # Xử lý YOLO và lưu ảnh kết quả
-├── runs/ # Lưu checkpoints sau khi train (file best.pt)
-├── predict_img/ # Lưu ảnh kết quả detect
-├── Safety_Helmet_Dataset/ # Bộ dữ liệu dùng để fine tuning
-├── requirements.txt # Thư viện cần thiết
-└── README.md # File mô tả project
-
+```text
+    project/
+    ├── object_detection_app.py      # Streamlit web app
+    ├── find_bounding_box.py         # Xử lý YOLO và lưu ảnh kết quả
+    ├── runs/                        # Lưu checkpoints sau khi train (file best.pt)
+    ├── predict_img/                 # Lưu ảnh kết quả detect
+    ├── Safety_Helmet_Dataset/       # Bộ dữ liệu dùng để fine tuning
+    ├── requirements.txt             # Thư viện cần thiết
+    └── README.md                    # File mô tả project
+```
 ### 5. Công nghệ sử dụng
 
   - YOLOv10 
