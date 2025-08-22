@@ -60,3 +60,9 @@ Mô hình đạt mAP@50 ≈ 76% sau khi fine-tune.
 Phát hiện chính xác các đối tượng:
   - Người có đội mũ bảo hộ. 
   - Người không đội mũ bảo hộ.
+
+### 7. Demo 
+![Giao diện](C:\anh\web.png)
+![Predict1](C:\anh\predict1.png)
+![Predict2](C:\anh\predict2.png)
+![Predict3](C:\anh\predict3.png)
