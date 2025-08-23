@@ -56,7 +56,7 @@ Chạy ứng dụng:
 
 ### 6. Kết quả
 
-Mô hình đạt mAP@50 ≈ 76% sau khi fine-tune.
+Mô hình đạt mAP50 ≈ 81% sau khi fine-tune.
 Phát hiện chính xác các đối tượng:
   - Người có đội mũ bảo hộ. 
   - Người không đội mũ bảo hộ.
